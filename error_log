@@ -1,0 +1,50 @@
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $show in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:36:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $show in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:01 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $show in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:30 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:37:53 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 15:38:38 UTC] PHP Warning:  Undefined variable $ in /home/dnddemo/public_html/strategic-rx/dev/wp-content/themes/strategic/faq.php on line 7
+[22-Jan-2023 16:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php:16
+Stack trace:
+#0 /home/dnddemo/public_html/strategic-rx/dev/index.php(17): require()
+#1 {main}
+  thrown in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php on line 16
+[22-Jan-2023 16:16:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php:16
+Stack trace:
+#0 /home/dnddemo/public_html/strategic-rx/dev/index.php(17): require()
+#1 {main}
+  thrown in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php on line 16
+[22-Jan-2023 16:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php:16
+Stack trace:
+#0 /home/dnddemo/public_html/strategic-rx/dev/index.php(17): require()
+#1 {main}
+  thrown in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php on line 16
+[22-Jan-2023 16:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp() in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php:16
+Stack trace:
+#0 /home/dnddemo/public_html/strategic-rx/dev/index.php(17): require()
+#1 {main}
+  thrown in /home/dnddemo/public_html/strategic-rx/dev/wp-blog-header.php on line 16
